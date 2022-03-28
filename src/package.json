@@ -1,0 +1,22 @@
+{
+  "name": "rzk-market-ru",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.6.4",
+    "@nuxtjs/firebase": "^7.5.0",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "nuxt-custom-headers": "^2.1.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/router": "^1.5.1",
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
